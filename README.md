@@ -45,7 +45,7 @@ Modern Portfolio Theory project with Efficient Frontier and Sharpe Ratio optimiz
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: Add your LinkedIn link
+- LinkedIn: [Add your LinkedIn link](https://www.linkedin.com/in/parth-bhanushali-b97851280?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - GitHub: https://github.com/Parth1592004
 
 <!--
